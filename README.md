@@ -6,7 +6,7 @@ from your code and provides more visibility of notifications.
 How to Publish:<br/>
 Step 1: Make sure the channel is created on slack to where you want to send the message<br/> 
 The slack Webhook is on my credentials so make sure you add me(Venumadhav Dondapati)to the channel if it is private
-Step 2: Set headers info in your publishing code<br/>
+Step 2: Set headers info in your publisher code<br/>
 Step 3: Publish your message to Queue<br/>
 
 Queue name: slack_RMQ<br/>
