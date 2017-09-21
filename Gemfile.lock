@@ -1,0 +1,20 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    amq-protocol (2.2.0)
+    bunny (2.7.0)
+      amq-protocol (>= 2.2.0)
+    slack-notifier (2.3.1)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  bunny (>= 2.6.3)
+  slack-notifier
+
+RUBY VERSION
+   ruby 2.3.1p112
+
+BUNDLED WITH
+   1.14.6
