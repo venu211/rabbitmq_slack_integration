@@ -12,3 +12,6 @@ Step 3: Publish your message to Queue<br/>
 Queue name: slack_RMQ<br/>
 Headers Info --> Key:channel_name Value: "Your slack channel name"<br/>
                  Example: channel_name = "Test001"
+
+References: 
+https://api.slack.com/docs/message-formatting#linking_to_channels_and_users
